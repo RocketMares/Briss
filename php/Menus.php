@@ -32,6 +32,7 @@
         margin: 20px;
     }  
     </style>
+    <link rel='shortcut icon' href='img/vintestec.ico'>
     <title>Tramites Escolares</title>
   </head>
   <body>
@@ -45,7 +46,7 @@
 
 
             <footer>
-        
+            <img src='img/vintestec.svg' width='30' height='30' alt='...'>
                 <p class='copy'>&copy Copyright Vintes Tec - 2023</p>
     
             </footer>
